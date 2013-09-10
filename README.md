@@ -1,3 +1,8 @@
+
+** Why did I fork? **
+
+Just to make it comfortable to install gem, I added jar files
+
 [![Build Status](https://secure.travis-ci.org/louismullie/stanford-core-nlp.png)](http://travis-ci.org/louismullie/stanford-core-nlp)
 
 **About**
